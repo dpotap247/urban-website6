@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <polygon id="path-1" points="0 0 40 0 40 40 0 40"></polygon>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage---final" transform="translate(-1578.000000, -58.000000)">
+            <g id="soc-hubs" transform="translate(301.000000, 41.000000)">
+                <g transform="translate(1167.000000, 17.000000)">
+                    <g id="Group-3" transform="translate(110.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M24.9738281,20.7041406 L21.72,20.7041406 L21.72,32.3016406 L16.8984375,32.3016406 L16.8984375,20.7041406 L14.6064844,20.7041406 L14.6064844,16.6052344 L16.8984375,16.6052344 L16.8984375,13.9539844 C16.8984375,12.0550781 17.8007031,9.08804687 21.7642969,9.08804687 L25.3371094,9.10179688 L25.3371094,13.080625 L22.7439063,13.080625 C22.3217969,13.080625 21.7215625,13.2917188 21.7215625,14.1971875 L21.7215625,16.6060156 L25.3951563,16.6060156 L24.9738281,20.7041406 Z M20,0 C8.97203125,0 0,8.97210938 0,20 C0,31.0271875 8.97203125,40 20,40 C31.0271094,40 40,31.0271875 40,20 C40,8.97210938 31.02875,0 20,0 L20,0 Z" id="Fill-1" fill="#c4c4c4" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
