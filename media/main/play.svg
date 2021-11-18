@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="161px" height="161px" viewBox="0 0 161 161" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 8</title>
-    <defs>
-        <linearGradient x1="183.335476%" y1="-50.6482005%" x2="-90.866514%" y2="220.727686%" id="linearGradient-1">
-            <stop stop-color="#1D1D1D" offset="0%"></stop>
-            <stop stop-color="#000000" offset="100%"></stop>
-            <stop stop-color="#ED644B" offset="100%"></stop>
-            <stop stop-color="#DDBF5D" offset="100%"></stop>
-        </linearGradient>
-        <rect id="path-2" x="0" y="0" width="141" height="141"></rect>
-        <filter x="-11.3%" y="-9.9%" width="122.7%" height="122.7%" filterUnits="objectBoundingBox" id="filter-3">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.106636379   0 0 0 0 0.0986343328   0 0 0 0 0.0986343328  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-    </defs>
+<svg width="27px" height="41px" viewBox="0 0 27 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Fill 1</title>
     <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="homepage---final" transform="translate(-613.000000, -2837.000000)">
-            <g id="animations" transform="translate(0.000000, 2466.000000)">
-                <g id="Group-11" transform="translate(568.000000, 326.000000)">
-                    <g id="Group-8" transform="translate(55.000000, 53.000000)">
-                        <g id="Rectangle">
-                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
-                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
-                        </g>
-                        <path d="M72.4379826,57.7615051 L92.3053974,82.9073154 C92.3901649,83.0163022 92.4227318,83.1493301 92.4068602,83.2763031 C92.3909886,83.4032761 92.3266784,83.5241943 92.2176916,83.6089618 C92.1299251,83.6772246 92.0219092,83.7142857 91.9107213,83.7142857 L91.9107213,83.7142857 L53.0892787,83.7142857 C52.9512075,83.7142857 52.8262075,83.6583213 52.7357253,83.5678391 C52.6452431,83.4773569 52.5892787,83.3523569 52.5892787,83.2142857 C52.5892787,83.1030978 52.6263398,82.9950818 52.6946026,82.9073154 L52.6946026,82.9073154 L72.1053239,57.9506738 C72.1900914,57.841687 72.3110096,57.7773768 72.4379826,57.7615051 L72.4379826,57.7615051 Z" id="Triangle" stroke="#F5F6FA" stroke-width="3" transform="translate(72.500000, 70.107143) rotate(90.000000) translate(-72.500000, -70.107143) "></path>
-                    </g>
-                </g>
-            </g>
+        <g id="homepage" transform="translate(-1189.000000, -3418.000000)" fill="#FFFFFF">
+            <polygon id="Fill-1" points="1195.72863 3418.81082 1189.79884 3424.73254 1203.86329 3438.816 1189.77982 3452.8816 1195.70097 3458.81082 1215.71538 3438.82465"></polygon>
         </g>
     </g>
 </svg>
